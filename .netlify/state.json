@@ -1,0 +1,21 @@
+{
+	"siteId": "80e43dad-7004-4d6b-bbe6-fed746ac0297",
+	"geolocation": {
+		"data": {
+			"city": "Mesa",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "AZ",
+				"name": "Arizona"
+			},
+			"timezone": "America/Phoenix",
+			"latitude": 33.3967,
+			"longitude": -111.6545,
+			"postalCode": "85208"
+		},
+		"timestamp": 1730241855787
+	}
+}
